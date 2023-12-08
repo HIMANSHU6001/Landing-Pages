@@ -1,2 +1,2 @@
 # Landing-Pages
-Landing Page Projects
+There are two simple Landing web pages to made with HTML CSS.
